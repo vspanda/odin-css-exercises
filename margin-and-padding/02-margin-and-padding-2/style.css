@@ -16,6 +16,8 @@ body {
   
   display: block;
   margin: 0px;
+  font-size: 16px;
+  padding: 8px;
 }
 
 .content {
@@ -28,7 +30,6 @@ body {
 .button-container {
   background: #e3f4ff;
   
-  display: block;
   text-align: center;
   padding: 8px;
 }
@@ -39,6 +40,5 @@ button {
 
   display: block;
   padding: 8px 24px;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 0 auto;
 }
