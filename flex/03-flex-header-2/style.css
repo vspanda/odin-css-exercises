@@ -19,9 +19,11 @@ body {
   padding: 8px 16px;
 }
 
-.left-bar {
+.left-bar,
+.right-bar {
   display: flex;
   gap: 16px;
+  align-items: center;
 }
 
 .links {
@@ -30,13 +32,6 @@ body {
   gap: 16px;
   padding: 0;
   margin: 0;
-}
-
-.right-bar {
-  display: flex;
-  gap: 8px;
-  justify-content: center;
-  align-items: center;
 }
 
 .profile-image {
