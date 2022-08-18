@@ -23,16 +23,10 @@ ul {
   margin: 0;
   padding: 0;
 
-  flex: 2;
-
   display: flex;
-  justify-content: space-around;
-  align-items: center;
-  
-}
 
-li {
-  padding: 0px 8px;
+  gap: 8px;
+  
 }
 
 a {
