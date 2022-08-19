@@ -76,7 +76,6 @@ button.cancel {
 .right {
   display: flex;
   flex-direction: column;
-  gap: 16px;
 }
 
 .head {
@@ -86,6 +85,12 @@ button.cancel {
 
   font-size: 1.4rem;
   font-weight: bold;
+
+  margin-bottom: 8px;
+}
+
+.text {
+  margin-bottom: 16px;
 }
 
 .icon {
